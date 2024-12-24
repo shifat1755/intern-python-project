@@ -1,3 +1,7 @@
+Here is a log,
+
+<img width="838" alt="image" src="https://github.com/user-attachments/assets/6fcc44db-453f-4f31-89ea-560756ebe8b1" />
+
 # Mini Project
 
 TODO:
@@ -39,10 +43,6 @@ get_joke() # returns a random joke
 ```
 
 If you can, save the logs in a file and submit it with your project.
-
-Here is a sample log,
-
-<img width="838" alt="image" src="https://github.com/user-attachments/assets/6fcc44db-453f-4f31-89ea-560756ebe8b1" />
 
 ## If you are stuck
 <details>
